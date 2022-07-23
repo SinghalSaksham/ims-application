@@ -1,0 +1,15 @@
+.navbarStyle {
+  color: white;
+  text-decoration: none;
+}
+
+.nav-container {
+  display: flex;
+  justify-content: center;
+}
+
+#nav1 {
+  background-color: black; /*whichever you want*/
+  opacity: 0.5;
+  filter: (opacity=50);
+}
