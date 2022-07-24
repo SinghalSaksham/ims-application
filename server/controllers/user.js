@@ -4,8 +4,7 @@ import bcrypt from "bcrypt";
 import jwt from "jsonwebtoken";
 import sgMail from "@sendgrid/mail";
 
-const API_KEY =
-  "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";
+const API_KEY = "API_KEY";
 
 sgMail.setApiKey(API_KEY);
 
